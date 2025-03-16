@@ -9,7 +9,9 @@ This project is a simple Flask application that provides a responsive contact fo
 - Flash messages for success and error notifications.
 
 ## Setup Instructions
+
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/contact_form_project.git
    cd contact_form_project
+
